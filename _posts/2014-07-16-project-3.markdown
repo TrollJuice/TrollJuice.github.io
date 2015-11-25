@@ -1,0 +1,15 @@
+---
+title: Trolldrops
+subtitle: Premium Candy
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: trolldrops.png
+thumbnail: trolldrops-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Trolldrops is that perfect blend between fruit and candy.  This sweet juice blend sets that perfect line of sweet and juice.  Trolldrops is a perfect all day vape for anyone with a sweet-tooth.
+
+---

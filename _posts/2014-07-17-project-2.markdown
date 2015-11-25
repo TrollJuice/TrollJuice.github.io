@@ -1,0 +1,15 @@
+---
+title: Trollberries
+subtitle: Premium Fruit
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: trollberries.png
+thumbnail: trollberries-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Trollberries is a flavor intense fruit blend.  Its blend creates an amazing fruit flavor that is not overly sweet.  A great choice for the fruit lovers without being too sweet.
+
+---

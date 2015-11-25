@@ -1,0 +1,15 @@
+---
+title: Jolly Troll
+subtitle: Premium Candy
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: jollytroll.png
+thumbnail: jollytroll-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Jolly Troll is a hardcandy flavor with sweet and sour twist of a granny smith apple.
+
+---

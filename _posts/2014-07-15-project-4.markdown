@@ -1,0 +1,15 @@
+---
+title: TrollCandy
+subtitle: Premium Cotton Candy
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: trollcandy.png
+thumbnail: trollcandy-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: TrollCandy is just like being at the fair.  A crowd favorite cotton candy.
+
+---

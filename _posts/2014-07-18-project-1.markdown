@@ -1,0 +1,14 @@
+---
+title: Trollbeer
+subtitle: Premium Rootbeer
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: rootbeer.png
+thumbnail: rootbeer-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Trollbeer is a rootbeer flavor that comes straight from the troll...
+---
